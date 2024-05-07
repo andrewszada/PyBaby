@@ -8,9 +8,8 @@ while resp != '0':
   print("############################################")
   print("#####      1 - Módulo Cliente          #####")
   print("#####      2 - Módulo Vendedor        #####")
-  print("#####      3 - Módulo Produto         #####")
-  print("#####      4 - Módulo Vendas        #####")
-  print("#####      5 - Módulo Informações      #####")
+  print("#####      3 - Módulo Produto/Vendas         #####")
+  print("#####      4 - Módulo Informações      #####")
   print("#####      0 - Sair                    #####")
   resp = input("##### Escolha sua opção: ")
 
