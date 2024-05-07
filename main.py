@@ -11,7 +11,7 @@ while resp != '0':
   print("#####      3 - Módulo Produto/Vendas         #####")
   print("#####      4 - Módulo Informações      #####")
   print("#####      0 - Sair                    #####")
-  resp = input("##### Escolha sua opção: ")
+  resp = input("##### Escolha sua opção ")
 
   if resp == "1":
     os.system("cls")
